@@ -12,14 +12,15 @@
 - any addional information or context
 
 # Checklist
-- [ ] Did you create Unit Tests
-- [ ] Did you update/create any documentation
-- [ ] Did you generate a SonarQube report to check code issues
-
-# Screenshots
+- [ ] Did you update the version?
+- [ ] Did you create Unit Tests?
+- [ ] Did you update/create any documentation?
+- [ ] Did you generate a SonarQube report to check code issues?
 
 # Code review
-@mentions Roan Bester
+@Roan Bester
+
+# Screenshots
 
 Original            | Updated
 :--------------------------------:|:--------------------------------:
